@@ -1,16 +1,16 @@
-# PROJETO DE REDE ESTRUTURADA PARA O PAVILHÃO ESCOLAR
+# PROJETO DE REDE ESTRUTURADA PARA O PAVILHÃO LUIS VIANA
 
-**Instituição:** Escola Técnica Estadual XYZ
+**Instituição:** Centro Territorial de Educação Profissional do Litoral Norte e Agreste Baiano
 
-**Projeto:** Rede Estruturada para o Pavilhão Escolar
+**Projeto:** Rede Estruturada para o Pavilhão Luis Viana
 
-**Equipe:** Equipe Alfa (Assistente Especialista AI)
+**Equipe:** Breno Almeida, Octavio Rick, Misael Mateus, Alailson Santana
 
-**Orientador:** Ailton Bruno
+**Orientador:** Edjan 
 
-**Turma:** Edificação, Terceiro Ano
+**Turma:** 3TIM4
 
-**Local:** Salvador, 2023
+**Local:** Alagoinhas, 2025
 
 ---
 
@@ -32,10 +32,10 @@
 
 ### 1. Identificação do Projeto
 
-*   **Nome da equipe:** Equipe Alfa
-*   **Integrantes:** Assistente Especialista AI
-*   **Turma:** Edificação, Terceiro Ano de 2023
-*   **Título do projeto:** Projeto de Rede Estruturada para o Pavilhão Escolar da E.T.E. XYZ
+*   **Nome da equipe:** Equipe 3
+*   **Integrantes:** Octavio Rick,Breno Almeira, Misael Mateus, Alailson Santana
+*   **Turma:** 3TIM4
+*   **Título do projeto:** Projeto de Rede Estruturada para o Pavilhão Luis Viana
 
 ### 2. Introdução
 
@@ -59,11 +59,11 @@ Com base na planta baixa, foram identificados os seguintes requisitos:
 
 Foram pesquisadas 3 opções de provedores de fibra óptica na cidade:
 
-*   **Opção 1 - Provedor A:** 300 Mbps (Download) / 150 Mbps (Upload) - R$ 299,00/mês.
-*   **Opção 2 - Provedor B:** 500 Mbps (Download) / 250 Mbps (Upload) + IP Fixo - R$ 449,00/mês.
-*   **Opção 3 - Provedor C:** 600 Mbps (Download) / 300 Mbps (Upload) - R$ 599,00/mês.
+*   **Brisanet:** 300 Mbps (Download) / 150 Mbps (Upload) - R$ 299,00/mês.
+*   **Startnet:** 500 Mbps (Download) / 250 Mbps (Upload) + IP Fixo - R$ 449,00/mês.
+*   **Global Connect - Provedor C:** 600 Mbps (Download) / 300 Mbps (Upload) - R$ 599,00/mês.
 
-**Justificativa da Escolha:** A **Opção 2 (Provedor B)** foi a escolhida. Apresenta o melhor custo-benefício, com uma velocidade robusta para atender a demanda de usuários simultâneos e a inclusão de um IP fixo, que é vantajoso para a configuração de serviços de acesso remoto seguro e servidores internos.
+**Justificativa da Escolha:** A **Opção 2 Startnet** foi a escolhida. Apresenta o melhor custo-benefício, com uma velocidade robusta para atender a demanda de usuários simultâneos e a inclusão de um IP fixo, que é vantajoso para a configuração de serviços de acesso remoto seguro e servidores internos.
 
 ### 5. Equipamentos Necessários
 
