@@ -33,7 +33,7 @@
 ### 1. Identificação do Projeto
 
 *   **Nome da equipe:** Equipe 3
-*   **Integrantes:** Octavio Rick,Breno Almeira, Misael Mateus, Alailson Santana
+*   **Integrantes:** Octavio Rick,Breno Almeida, Misael Mateus, Alailson Santana
 *   **Turma:** 3TIM4
 *   **Título do projeto:** Projeto de Rede Estruturada para o Pavilhão Luis Viana
 
@@ -119,3 +119,4 @@ As vantagens do projeto incluem a centralização do gerenciamento, a melhoria d
 *   KUROSE, J. F.; ROSS, K. W. **Redes de Computadores e a Internet: Uma Abordagem Top-Down**. 8. ed. São Paulo: Pearson, 2021.
 *   ABNT. **NBR 14565**: Cabeamento Estruturado para Edifícios Comerciais. Rio de Janeiro, 2019.
 *   Tanenbaum, A. S.; Wetherall, D. J. **Redes de Computadores**. 5. ed. São Paulo: Pearson, 2011.
+
